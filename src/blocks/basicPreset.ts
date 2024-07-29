@@ -1,0 +1,1 @@
+export const blocks: BlockProperties[] = [imageBlock, frameBlock, linkBlock, containerBlock]
